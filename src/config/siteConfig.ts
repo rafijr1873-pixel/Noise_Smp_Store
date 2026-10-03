@@ -58,8 +58,8 @@ export const navLinks = [
 // Saat tombol "Beli" ditekan, user memilih salah satu dan akan diarahkan
 // (redirect) ke link berikut. Format nomor WhatsApp: kode negara tanpa "+".
 export const purchaseContacts = {
-  discordInviteUrl: "https://discord.gg/noisesmp",
-  whatsappNumber: "6281234567890",
+  discordInviteUrl: "https://discord.gg/unUEPn23H",
+  whatsappNumber: "6285624270939",
   // EDIT DI SINI — template pesan WhatsApp otomatis. {product} & {price}
   // akan diganti otomatis sesuai produk yang dipilih.
   whatsappMessageTemplate:
@@ -99,7 +99,7 @@ export const categories: ProductCategory[] = [
         priceNote: "/ selamanya",
         icon: "⚔️",
         description: "Pilihan favorit pemain aktif, cocok untuk grinding dan survival jangka panjang.",
-        features: ["Tag [MVP] berwarna", "Akses kit harian Hero", "Dan fitur lainnya"],
+        features: ["Tag [MVP] berwarna", "Akses kit harian mvp", "Dan fitur lainnya"],
         popular: true,
         tag: "TERLARIS",
       },
@@ -110,7 +110,7 @@ export const categories: ProductCategory[] = [
         priceNote: "/ selamanya",
         icon: "👑",
         description: "Untuk pemain serius yang ingin fitur lengkap dan prioritas lebih di server.",
-        features: ["Tag [Legend] eksklusif", "10 /sethome", "Akses /fly di area survival", "Diskon 10% di /shop"],
+        features: ["Tag [-] eksklusif", "10 /sethome", "Akses /fly di area survival", "Diskon 10% di /shop"],
       },
       {
         id: "rank-immortal",
@@ -119,7 +119,7 @@ export const categories: ProductCategory[] = [
         priceNote: "/ selamanya",
         icon: "🔥",
         description: "Rank tertinggi dengan seluruh keuntungan Noise SMP, dibuat untuk pemain top tier.",
-        features: ["Tag [Immortal] animasi warna", "Unlimited /sethome", "/fly & /god area survival", "Diskon 15% di /shop", "Akses channel Discord khusus"],
+        features: ["Tag [-] animasi warna", "Unlimited /sethome", "/fly & /god area survival", "Diskon 15% di /shop", "Akses channel Discord khusus"],
         tag: "PREMIUM",
       },
     ],
@@ -211,10 +211,10 @@ export const faqList: FaqEntry[] = [
 /* ------------------------------------------------------------------ */
 // EDIT DI SINI — daftar sosial media / channel yang tampil di section Contact.
 export const socialLinks: SocialLink[] = [
-  { label: "Discord Server", url: "https://discord.gg/noisesmp", icon: "discord" },
-  { label: "WhatsApp Admin", url: "https://wa.me/6281234567890", icon: "whatsapp" },
-  { label: "Instagram", url: "https://instagram.com/noisesmp", icon: "instagram" },
-  { label: "YouTube", url: "https://youtube.com/@noisesmp", icon: "youtube" },
+  { label: "Discord Server", url: "https://discord.gg/unUEPn23H", icon: "discord" },
+  { label: "WhatsApp Admin", url: "https://wa.me/6285624270939", icon: "whatsapp" },
+  { label: "Instagram", url: "ISI_LINK_INSTAGRAM", icon: "instagram" },
+  { label: "YouTube", url: "LINK_YOUTUBE", icon: "youtube" },
 ];
 
 /* ------------------------------------------------------------------ */
