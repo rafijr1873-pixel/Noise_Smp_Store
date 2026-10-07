@@ -27,7 +27,7 @@ export const siteInfo = {
     "Tingkatkan pengalaman bermainmu di Noise SMP dengan Rank eksklusif, item langka, dan berbagai keperluan survival — proses instan, aman, dan terpercaya.",
 
   // EDIT DI SINI — IP server Minecraft Bedrock (ditampilkan + tombol copy)
-  serverIp: "xiao-nodes.davinn.net:40123",
+  serverIp: "noisesmp.arqonara.my.id:25386",
 
   // EDIT DI SINI — label platform yang ditampilkan di badge hero
   platformLabel: "Khusus Minecraft Bedrock Edition",
