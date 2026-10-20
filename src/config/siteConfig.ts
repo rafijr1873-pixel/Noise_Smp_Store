@@ -59,7 +59,7 @@ export const navLinks = [
 // (redirect) ke link berikut. Format nomor WhatsApp: kode negara tanpa "+".
 export const purchaseContacts = {
   discordInviteUrl: "https://discord.gg/unUEPn23H",
-  whatsappNumber: "6285624270939",
+  whatsappNumber: "6285185732228",
   // EDIT DI SINI — template pesan WhatsApp otomatis. {product} & {price}
   // akan diganti otomatis sesuai produk yang dipilih.
   whatsappMessageTemplate:
