@@ -86,7 +86,7 @@ export const categories: ProductCategory[] = [
       {
         id: "rank-knight",
         name: "ELITE",
-        price: "Rp 10.000",
+        price: "Rp 15.000",
         priceNote: "/ selamanya",
         icon: "🛡️",
         description: "Rank awal untuk kamu yang ingin memulai perjalanan dengan sedikit keuntungan extra.",
